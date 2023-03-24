@@ -18,3 +18,9 @@ Download from [Releases](https://github.com/fan-ADN/nendSDK-iOS-ironSource-Custo
 ## License
 
 Copyright (C) FAN Communications, Inc.
+
+## Link
+
+### For ironSource Unity Plugin
+
+If you also use ironSource Unity Plugin on Unity project, [Here](https://github.com/fan-ADN/nendSDK-ironSource-Unity-CustomAdapter-XML) is custom adapter XML for adding the nend Custom Adapter to the ironSource Unity plugin.
